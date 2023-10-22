@@ -1,0 +1,47 @@
+/*
+body{
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0px;
+}
+
+header{
+    background-color: brown;
+    color: burlywood;
+}
+
+main{
+    background-color:lightgray;
+    padding: 1em;
+}
+*/
+
+body{
+    margin: 0px;
+}
+
+.thebody{
+    background-image: url(record.png);
+    background-size: 5%;
+    background-repeat: repeat;
+}
+
+.theheader{
+    margin: auto;
+    width: 90%;
+    padding: ;
+    border-radius: 20px;
+    background-color: brown;
+    color: burlywood;
+    text-align: center;
+    
+}
+
+.themain{
+    margin: auto;
+    width: 60%;
+    padding: 1em;
+    border-radius: 20px;
+    background-color: lightgray;
+    text-align: center;
+}
